@@ -1,0 +1,15 @@
+# IDE
+.idea/
+*.iml
+
+# Compilados e build
+out/
+build/
+target/
+*.class
+*.jar
+
+*.log
+.DS_Store
+
+MANIFEST.MF
